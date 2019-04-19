@@ -389,11 +389,6 @@
     "meta": 1555643342419,
     "relativePath": "prefab\\webview.prefab"
   },
-  "428f37a5-725a-429a-84c9-e38887ca3439": {
-    "asset": 1555488519643,
-    "meta": 1555488524210,
-    "relativePath": "scripts\\interface\\Glb.js"
-  },
   "a39f0a8b-def1-42c1-b365-7ea47abea00d": {
     "asset": 1555501642145,
     "meta": 1555501642235,
@@ -469,9 +464,14 @@
     "meta": 1555641558981,
     "relativePath": "scripts\\interface\\CreateRoom.js"
   },
+  "428f37a5-725a-429a-84c9-e38887ca3439": {
+    "asset": 1555669556591,
+    "meta": 1555669570539,
+    "relativePath": "scripts\\interface\\Glb.js"
+  },
   "a365514a-dfb2-44f6-b0cc-43f99a48cb33": {
-    "asset": 1555656792438,
-    "meta": 1555656794857,
+    "asset": 1555669471956,
+    "meta": 1555669570542,
     "relativePath": "scripts\\interface\\zyankenGame.js"
   }
 }

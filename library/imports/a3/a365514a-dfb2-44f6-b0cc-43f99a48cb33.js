@@ -216,7 +216,6 @@ cc.Class({
         var eventData = event.data;
         switch (event.type) {
             case msg.MATCHVS_ROOM_DETAIL:
-                GLB.ownew = eventData.rsp.owner;
                 if (eventData.rsp.owner === GLB.userID) {
                     GLB.isRoomOwner = true;
                 }
